@@ -4,6 +4,6 @@ scalaOrganization in ThisBuild := "org.typelevel"
 
 organization := "net.chwthewke"
 
-name := "idea-sbt-typelevel"
+name := "sbt-typelevel-updateSbtClassifiers"
 
 version := "0.0.1"
